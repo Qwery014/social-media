@@ -1,13 +1,8 @@
-import React from 'react';
-import "./HomePage.scss";
+import React from "react";
+import "./HomePage.css";
 
 const HomePage = () => {
-  return (
-    <div>
-      HomePage
-      <input type="text" name="" id="" />
-    </div>
-  );
+	return <></>;
 };
 
 export default HomePage;

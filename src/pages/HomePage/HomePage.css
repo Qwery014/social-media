@@ -1,0 +1,7 @@
+@import "/src/App.css";
+
+@layer components {
+	.logo {
+		@apply text-9xl font-bold;
+	}
+}
